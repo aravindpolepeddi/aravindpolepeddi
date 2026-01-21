@@ -144,7 +144,7 @@ Project_Highlights:
 ## 🏗️ Architecture Patterns & Projects
 
 <details>
-<summary>☁️ <b>Cloud-Native Microservices</b> - AWS Multi-Tier Architecture</summary>
+<summary>☁️ <b>Cloud-Native Microservices</b> - AWS Multi-Tier Architecture</summary> [**→ Explore the Complete Architecture**](https://github.com/aravindpolepeddi/infrastructure)
 
 ```
 ┌─────────────────────────────────────────────────────────┐
