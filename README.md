@@ -180,6 +180,14 @@ Project_Highlights:
 ```
 </details>
 
+<details>
+<summary>🐳 <b>Spring boot application</b> - TA Code review booking</summary>
+
+```
+[**→ Explore the Repo**](https://github.com/aravindpolepeddi/spring-boot-TA-App)
+```
+</details>
+
 ---
 
 ## 🎓 Certifications & Achievements
