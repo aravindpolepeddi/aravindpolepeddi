@@ -196,16 +196,6 @@ Project_Highlights:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Aravind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 📡 Connect & Collaborate
 
 <div align="center">
