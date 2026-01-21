@@ -112,6 +112,32 @@ Previous_Role:
     - "🔐 Implemented SSSD/LDAP → Enterprise-grade security"
     - "🤖 Selenium automation → Page Object Model architecture"
 ```
+## 🌟 Featured Project: Cloud-Native Platform
+
+<div align="center">
+
+[![Cloud Platform](https://img.shields.io/badge/🚀_Production_Platform-View_Project-00F7FF?style=for-the-badge)](https://github.com/cyse7125-fall2022-group04/cyse7125-fall2022-group04/blob/main/README.md)
+
+</div>
+
+**Enterprise-Grade DevOps Ecosystem** - A complete cloud-native platform showcasing production-ready infrastructure:
+
+```yaml
+Project_Highlights:
+  Architecture: "8-repo microservices ecosystem on Kubernetes"
+  Infrastructure: "Terraform + Ansible + Packer + kOps"
+  Cluster: "HA Kubernetes (3 masters, 3 workers, Multi-AZ)"
+  Observability: "Prometheus + Grafana + ELK Stack"
+  Event_Streaming: "Apache Kafka + Zookeeper (3 replicas)"
+  CI_CD: "Jenkins + GitHub Actions + Maven"
+  Application: "Spring Boot microservices with PostgreSQL"
+  Cloud: "AWS (VPC, EC2, RDS, S3) with VPC peering"
+  Automation_Level: "100% Infrastructure as Code"
+```
+
+**What it demonstrates:** Full-stack DevOps from infrastructure provisioning to observability.
+
+[**→ Explore the Complete Architecture**](https://github.com/cyse7125-fall2022-group04/cyse7125-fall2022-group04/blob/main/README.md)
 
 ---
 
