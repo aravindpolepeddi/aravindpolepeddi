@@ -1,99 +1,229 @@
-# Hi there, I'm Aravind Polepeddi 👋
+<div align="center">
 
-### Software Engineer | DevOps Enthusiast | Cloud Architecture Specialist
+# `$ whoami` 
+## Aravind Polepeddi
 
-I'm a Software Engineer with a passion for building scalable cloud infrastructure, automating workflows, and improving system reliability. Currently based in Carlsbad, CA, I specialize in DevOps practices, containerization, and cloud-native solutions.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F703&center=true&vCenter=true&random=false&width=600&lines=DevOps+Engineer+%7C+SRE;Cloud+Architecture+Specialist;Infrastructure+Automation+Expert;Kubernetes+%26+Container+Enthusiast)](https://git.io/typing-svg)
 
----
+</div>
 
-## 🚀 About Me
+```bash
+┌──(aravind㉿github)-[~]
+└─$ cat about.sh
 
-- 🔭 **Current Focus:** Building robust CI/CD pipelines, Kubernetes deployments, and cloud infrastructure automation
-- 💼 **Experience:** 5+ years in software engineering, DevOps, and site reliability
-- 🎓 **Education:** MS in Information Systems from Northeastern University
-- 🌱 **Learning:** Advanced Kubernetes patterns, cloud-native architectures, and observability tools
-- 📫 **Reach me:** polepeddiaravind@gmail.com | [LinkedIn](https://www.linkedin.com/in/aravind-polepeddi)
-
----
-
-## 🛠️ Technical Stack
-
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Technologies
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### Monitoring & Logging
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+#!/bin/bash
+echo "Building scalable systems, one commit at a time..."
+echo "Current Status: Automating all the things 🚀"
+```
 
 ---
 
-## 💼 Professional Highlights
+## `</>` System.out.println("Tech Arsenal");
 
-**Software Engineer @ Viasat Inc** *(July 2023 - December 2025)*
-- Implemented comprehensive monitoring solutions using Grafana, Sensu, and Splunk
-- Migrated container images to Distroless for enhanced security
-- Designed Fluent Bit pipelines for real-time log processing and monitoring
-- Automated failover processes using Jenkins, Groovy, and Python
+<div align="center">
 
-**Software Engineer @ NCR Corporation** *(July 2018 - Aug 2021)*
-- Built CI/CD pipelines reducing deployment time by 40%
-- Implemented security controls using SSSD and LDAP
-- Developed automated testing frameworks using Selenium and TestComplete
+### ⚡ Core Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🎯 Frameworks & Runtime
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🐳 Container Orchestration
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
+
+### 🔧 DevOps Toolchain
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+
+### 🗄️ Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+</div>
 
 ---
 
-## 🏆 Certifications
+## 🔥 System Metrics
 
-- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🐧 **Linux Professional Institute Certification (LPIC-1)**
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
 
-## 📊 GitHub Stats
+</div>
 
-![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+</div>
 
----
+<div align="center">
 
-## 📄 Resume
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-📥 **[Download My Resume](https://drive.google.com/file/d/1BRB6nAlWfq1k88wAP7Ci8eF6jRwESlIm/view?usp=sharing)** | 📧 **[Email me](mailto:polepeddiaravind@gmail.com)** for opportunities
-
----
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-polepeddi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polepeddiaravind@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+</div>
 
 ---
 
-💡 *"Building reliable systems, one pipeline at a time."*
+## 💼 `sudo su - professional_experience`
+
+```yaml
+Current_Role:
+  Company: "Viasat Inc"
+  Location: "Carlsbad, CA"
+  Duration: "July 2023 - December 2025"
+  Achievements:
+    - "🚀 Migrated to Distroless containers → Enhanced security posture"
+    - "📊 Deployed Grafana + Sensu + Splunk → 24/7 system visibility"
+    - "⚙️ Automated failover with Jenkins/Python → Zero-touch recovery"
+    - "🐳 Built Fluent Bit pipelines → Real-time log streaming"
+    - "☸️ Enhanced Helm charts → Optimized K8s deployments"
+    
+Previous_Role:
+  Company: "NCR Corporation"
+  Location: "Hyderabad, India"
+  Duration: "July 2018 - Aug 2021"
+  Achievements:
+    - "⚡ CI/CD optimization → 40% faster deployments"
+    - "🔐 Implemented SSSD/LDAP → Enterprise-grade security"
+    - "🤖 Selenium automation → Page Object Model architecture"
+```
+
+---
+
+## 🏗️ Architecture Patterns & Projects
+
+<details>
+<summary>☁️ <b>Cloud-Native Microservices</b> - AWS Multi-Tier Architecture</summary>
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  Auto Scaling + ALB + EC2 + RDS + DynamoDB + Lambda     │
+│  Infrastructure as Code: Terraform + CloudFormation     │
+│  CI/CD: Jenkins + CodeDeploy + GitHub Actions           │
+│  Monitoring: CloudWatch + SNS Alerts                    │
+└─────────────────────────────────────────────────────────┘
+```
+</details>
+
+<details>
+<summary>🔄 <b>Event-Driven Systems</b> - Real-Time Data Pipelines</summary>
+
+```
+┌──────────┐    ┌────────┐    ┌──────────┐    ┌──────────┐
+│  Kafka   │───▶│ Lambda │───▶│ DynamoDB │───▶│   SNS    │
+└──────────┘    └────────┘    └──────────┘    └──────────┘
+     │
+     └──────▶ S3 Archive + Elasticsearch Indexing
+```
+</details>
+
+<details>
+<summary>🐳 <b>Container Orchestration</b> - Kubernetes Production Setup</summary>
+
+```
+📦 Distroless Images → Minimal Attack Surface
+☸️ Helm Charts → Declarative Deployments  
+🔍 Fluent Bit → Centralized Logging
+📊 Prometheus + Grafana → Metrics & Alerts
+🔄 ArgoCD → GitOps Workflow
+```
+</details>
+
+---
+
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+| Certification | Provider | Year |
+|---------------|----------|------|
+| ☁️ **Azure Fundamentals (AZ-900)** | Microsoft | Certified |
+| 🐧 **Linux Professional (LPIC-1)** | LPI | Certified |
+| 🏆 **First Prize - NCR Commerce Hackathon** | NCR Corporation | 2019 |
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Aravind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📡 Connect & Collaborate
+
+<div align="center">
+
+```bash
+┌─[network@protocols]─[~/connections]
+└──╼ $ ls -la social_links/
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-polepeddi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polepeddiaravind@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./Resume_Aravind_Polepeddi.pdf)
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00F7FF&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+```python
+class DevOpsEngineer:
+    def __init__(self):
+        self.name = "Aravind Polepeddi"
+        self.role = "Software Engineer | SRE"
+        self.language_spoken = ["en_US", "hi_IN", "te_IN"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together 🚀")
+
+me = DevOpsEngineer()
+me.say_hi()
+```
+
+### `< /> with ❤️ by Aravind`
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+</div>
