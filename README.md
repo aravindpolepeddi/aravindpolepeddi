@@ -84,7 +84,7 @@ I'm a Software Engineer with a passion for building scalable cloud infrastructur
 
 ## 📄 Resume
 
-📥 **[Download My Resume](https://drive.google.com/file/d/1ZGsDNKFvv2EWZS6m5fz-J1r9jA9xqatd/view?usp=sharing)** | 📧 **[Email me](mailto:polepeddiaravind@gmail.com)** for opportunities
+📥 **[Download My Resume](https://drive.google.com/file/d/1BRB6nAlWfq1k88wAP7Ci8eF6jRwESlIm/view?usp=sharing)** | 📧 **[Email me](mailto:polepeddiaravind@gmail.com)** for opportunities
 
 ---
 
