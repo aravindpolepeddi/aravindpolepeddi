@@ -192,7 +192,7 @@ Previous_Role:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-polepeddi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polepeddiaravind@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./Resume_Aravind_Polepeddi.pdf)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/aravindpolepeddi/aravindpolepeddi/blob/main/Resume_Jan_2026.pdf)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00F7FF&style=for-the-badge)
 
@@ -216,14 +216,3 @@ me = DevOpsEngineer()
 me.say_hi()
 ```
 
-### `< /> with ❤️ by Aravind`
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
