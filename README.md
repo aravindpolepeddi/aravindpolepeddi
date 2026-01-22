@@ -189,8 +189,8 @@ Automated booking and scheduling
 Full lifecycle management
 Feedback and notification system
 Database migrations with Liquibase
-[**→ Explore the Repo**](https://github.com/aravindpolepeddi/spring-boot-TA-App)
 ```
+[**→ Explore the Repo**](https://github.com/aravindpolepeddi/spring-boot-TA-App)
 </details>
 
 <details>
@@ -203,8 +203,8 @@ Smart shift filtering based on preferences
 Secure credential management
 Cross-platform support (macOS M1, Windows, Linux)
 Complete activity logging
-[**→ Explore the Repo**](https://github.com/aravindpolepeddi/RSOShiftPicker)
 ```
+[**→ Explore the Repo**](https://github.com/aravindpolepeddi/RSOShiftPicker)
 </details>
 
 ---
