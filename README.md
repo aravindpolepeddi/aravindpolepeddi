@@ -181,10 +181,29 @@ Project_Highlights:
 </details>
 
 <details>
-<summary>🐳 <b>Spring boot application</b> - TA Code review booking</summary>
+<summary>📚 <b>Spring Boot Web Application - TA Code Review Scheduler</summary>
 
 ```
+Multi-role system (Students, TAs, Admins)
+Automated booking and scheduling
+Full lifecycle management
+Feedback and notification system
+Database migrations with Liquibase
 [**→ Explore the Repo**](https://github.com/aravindpolepeddi/spring-boot-TA-App)
+```
+</details>
+
+<details>
+<summary>🤖 <b> Selenium Automation - RSO Shift Picker</summary>
+
+```
+Browser automation with Selenium WebDriver
+Smart shift filtering based on preferences
+24/7 monitoring capabilities
+Secure credential management
+Cross-platform support (macOS M1, Windows, Linux)
+Complete activity logging
+[**→ Explore the Repo**](https://github.com/aravindpolepeddi/RSOShiftPicker)
 ```
 </details>
 
