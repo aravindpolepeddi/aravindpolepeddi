@@ -215,6 +215,7 @@ Complete activity logging
 
 | Certification | Provider | Year |
 |---------------|----------|------|
+| ☸️ **Certified Kubernetes Administrator (CKA)** | CNCF/Linux Foundation | Certified |
 | ☁️ **Azure Fundamentals (AZ-900)** | Microsoft | Certified |
 | 🐧 **Linux Professional (LPIC-1)** | LPI | Certified |
 | 🏆 **First Prize - NCR Commerce Hackathon** | NCR Corporation | 2019 |
